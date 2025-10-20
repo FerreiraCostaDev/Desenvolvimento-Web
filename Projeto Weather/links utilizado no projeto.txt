@@ -1,0 +1,7 @@
+links que usei nesse projeto 
+
+https://fonts.google.com/?categoryFilters=Feeling:%2FExpressive%2FStiff
+https://cdnjs.com/libraries/font-awesome
+https://fontawesome.com/search?q=tem&ic=free&o=r
+
+https://openweathermap.org/current
